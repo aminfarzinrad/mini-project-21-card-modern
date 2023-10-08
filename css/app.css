@@ -22,3 +22,12 @@ body{
     padding: 34px;
     justify-self: center;
 }
+.title_content{
+    font-size: 1.5rem;
+    margin: 2rem 0;
+    color: #2e3350;
+    font-weight: 700;    
+}
+.text_content{
+    color: #9a9baa;
+}
